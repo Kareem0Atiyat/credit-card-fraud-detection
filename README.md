@@ -11,3 +11,7 @@ Feature scaling using StandardScaler
 Model building and evaluation with RandomForestClassifier
 
 Data visualization with Matplotlib & Seaborn
+
+The dataset used in this project is publicly available on Kaggle:
+
+ [Download the creditcard.csv dataset from Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
